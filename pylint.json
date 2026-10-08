@@ -43,7 +43,7 @@
                 "fatal": 0,
                 "info": 0,
                 "refactor": 0,
-                "statement": 0,
+                "statement": 71,
                 "warning": 0
             }
         },
@@ -64,9 +64,9 @@
             "percent_duplicated_lines": 0.0
         },
         "node_count": {
-            "function": 0,
-            "klass": 0,
-            "method": 0,
+            "function": 1,
+            "klass": 1,
+            "method": 9,
             "module": 1
         },
         "undocumented": {
@@ -80,7 +80,7 @@
         "fatal": 0,
         "info": 0,
         "refactor": 0,
-        "statement": 0,
+        "statement": 71,
         "warning": 0,
         "skipped": 0,
         "global_note": 0,
@@ -130,7 +130,7 @@
                 "fatal": 0,
                 "info": 0,
                 "refactor": 0,
-                "statement": 0,
+                "statement": 71,
                 "warning": 0
             }
         },
@@ -151,9 +151,9 @@
             "percent_duplicated_lines": 0.0
         },
         "node_count": {
-            "function": 0,
-            "klass": 0,
-            "method": 0,
+            "function": 1,
+            "klass": 1,
+            "method": 9,
             "module": 1
         },
         "undocumented": {
@@ -167,10 +167,10 @@
         "fatal": 0,
         "info": 0,
         "refactor": 0,
-        "statement": 0,
+        "statement": 71,
         "warning": 0,
         "skipped": 0,
-        "global_note": 0,
+        "global_note": 10.0,
         "nb_duplicated_lines": 0,
         "percent_duplicated_lines": 0.0
     }
